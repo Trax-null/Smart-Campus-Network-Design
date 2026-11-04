@@ -95,7 +95,6 @@ This is a collaborative academic project developed by:
 2. Vikas Kumar
 3. Kiran Kour
 4. Shibabrata Saha
-5. Aryan Sharma
 
 ## Project Classification
 
